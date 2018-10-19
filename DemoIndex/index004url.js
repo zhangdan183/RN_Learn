@@ -16,7 +16,7 @@ export default class index004rul extends React.Component{
 
 }
 const posturl = () =>{
-    console.log('成功');
+    console.log('成功1');
     // loginuser('http://dev.api.ba.ikunchi.cn/token', {'username': 'BA1', 'password': '888888', 'grant_type': 'password'}).then(
     //     data => console.log(data)
     // ).catch(error => console.error(error));
