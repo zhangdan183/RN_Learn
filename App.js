@@ -12,6 +12,7 @@ import index001 from './DemoIndex/index001';
 import index003 from './DemoIndex/index003';
 import index004_url from './DemoIndex/index004url';
 import index005 from './DemoIndex/index005';
+import index006CssTest from './DemoIndex/index006CssTest'
 import createBottomTabNavigator from './DemoIndex/index002';
 
 //在主页面的构造函数中引用路由器
@@ -67,7 +68,7 @@ class otherscreen extends React.Component{
 const RootStack = createStackNavigator(
     {
         Home: homescreen,
-        Details: index005,
+        Details: index006CssTest,
     },
     {
         initialRouteName: 'Home',
