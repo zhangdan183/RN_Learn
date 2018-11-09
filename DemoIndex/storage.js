@@ -55,7 +55,7 @@ class Storage {
     /*
     * 下面是批量操作函数
     * */
-    static setAllStorage = async (keys, callback) => {
+    static setAllStorage = async (keys) => {
         try {
             await AsyncStorage.multiSet(keys, function (errs) {
                 if (!errs){
@@ -66,6 +66,19 @@ class Storage {
             });
         } catch (e) {
             callback({states: 'false', msg: errs});
+        }
+    }
+
+    static getAllStorage = async (keys) => {
+        try {
+            let values = await AsyncStorage.multiGet(keys);
+            if(values !== null){
+                return values;
+            }else{
+                return null;
+            }
+        } catch (e) {
+            return null;
         }
     }
 }
