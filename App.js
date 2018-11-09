@@ -13,6 +13,7 @@ import index003 from './DemoIndex/index003';
 import index004_url from './DemoIndex/index004url';
 import index005 from './DemoIndex/index005';
 import createBottomTabNavigator from './DemoIndex/index002';
+import index007modal from './DemoIndex/index007modal';
 import login from './src/js/login'
 
 
@@ -41,6 +42,7 @@ class homescreen extends React.Component{
                         }
                     })}
                 />
+
             </View>
         );
     }

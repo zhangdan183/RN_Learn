@@ -2,63 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="977997d6-81e3-46ff-b296-ec96b80c144d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/js/login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoIndex/index006update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoIndex/index007modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoIndex/storage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DemoIndex/index006CssTest.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/login.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DemoIndex/index006CssTest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DemoIndex/index004url.js" beforeDir="false" afterPath="$PROJECT_DIR$/DemoIndex/index004url.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.1.2.development.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-check-es2015-constants/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-check-es2015-constants/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-react-transform/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-react-transform/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-syntax-async-functions/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-syntax-async-functions/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-syntax-class-properties/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-syntax-class-properties/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-syntax-flow/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-syntax-flow/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-syntax-jsx/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-syntax-jsx/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-syntax-trailing-function-commas/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-syntax-trailing-function-commas/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-class-properties/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-class-properties/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-arrow-functions/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-arrow-functions/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-block-scoping/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-block-scoping/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-classes/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-classes/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-computed-properties/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-computed-properties/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-destructuring/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-destructuring/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-for-of/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-for-of/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-function-name/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-function-name/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-literals/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-literals/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-modules-commonjs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-modules-commonjs/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-parameters/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-parameters/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-shorthand-properties/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-shorthand-properties/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-spread/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-spread/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-template-literals/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-template-literals/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-flow-strip-types/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-flow-strip-types/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-object-assign/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-object-assign/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-object-rest-spread/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-object-rest-spread/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-react-display-name/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-react-display-name/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-react-jsx-source/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-react-jsx-source/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-react-jsx/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-react-jsx/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-plugin-transform-regenerator/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-regenerator/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-native/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-preset-react-native/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-runtime/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-types/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-types/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/inherits/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/inherits/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/.bin/image-size" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/private/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/private/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/.cache/@babel/register/.babel.7.1.2.development.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-native/scripts/.packager.env" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-transform-hmr/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-transform-hmr/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/source-map-resolve/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/source-map-resolve/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/urix/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/urix/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylecss/testless.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/login.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -73,88 +29,70 @@
     <session id="-1181340765">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.0" value="6" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="3" />
-          <entry key="js" value="28" />
+          <entry key="js" value="48" />
           <entry key="json" value="4" />
           <entry key="less" value="2" />
-          <entry key="md" value="7" />
+          <entry key="md" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="3" />
           <entry key="JSON" value="4" />
-          <entry key="JavaScript" value="28" />
+          <entry key="JavaScript" value="48" />
           <entry key="Less" value="2" />
-          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="PLAIN_TEXT" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="38" />
-          <entry key="js" value="1242" />
+          <entry key="js" value="3359" />
           <entry key="json" value="87" />
           <entry key="less" value="17" />
-          <entry key="md" value="394" />
-          <entry key="txt" value="104" />
+          <entry key="md" value="465" />
+          <entry key="txt" value="112" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="38" />
           <entry key="JSON" value="87" />
-          <entry key="JavaScript" value="1242" />
+          <entry key="JavaScript" value="3359" />
           <entry key="Less" value="17" />
-          <entry key="PLAIN_TEXT" value="498" />
+          <entry key="PLAIN_TEXT" value="577" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/package.json">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DemoIndex/index006update.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/login.js">
+        <entry file="file://$PROJECT_DIR$/DemoIndex/storage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/login.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="11" selection-start-column="11" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webpack.config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+            <state relative-caret-position="480">
+              <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -162,11 +100,53 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1110">
-              <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+            <state relative-caret-position="-155">
+              <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
               <folding>
                 <element signature="e#102#141#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DemoIndex/index007modal.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding>
+                <element signature="e#43#69#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DemoIndex/index004url.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/js/login.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="447">
+              <caret line="40" column="7" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -190,22 +170,25 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DemoIndex/index004url.js" />
         <option value="$PROJECT_DIR$/DemoIndex/script/tools01.js" />
         <option value="$PROJECT_DIR$/DemoIndex/script/storage.js" />
         <option value="$PROJECT_DIR$/DemoIndex/index005.js" />
         <option value="$PROJECT_DIR$/stylecss/testless.less" />
         <option value="$PROJECT_DIR$/stylecss/testless.css" />
         <option value="$PROJECT_DIR$/DemoIndex/index006CssTest.css" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/DemoIndex/index006CssTest.js" />
         <option value="$PROJECT_DIR$/src/login/webpack.config.js" />
-        <option value="$PROJECT_DIR$/App.js" />
         <option value="$PROJECT_DIR$/src/login/login.css" />
         <option value="$PROJECT_DIR$/src/login/login.js" />
-        <option value="$PROJECT_DIR$/src/js/login.js" />
         <option value="$PROJECT_DIR$/webpack.config.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/DemoIndex/index006update.js" />
+        <option value="$PROJECT_DIR$/DemoIndex/index004url.js" />
+        <option value="$PROJECT_DIR$/DemoIndex/index007modal.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/App.js" />
+        <option value="$PROJECT_DIR$/DemoIndex/storage.js" />
+        <option value="$PROJECT_DIR$/src/js/login.js" />
       </list>
     </option>
   </component>
@@ -259,7 +242,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -270,24 +252,13 @@
             <path>
               <item name="RN_Learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="RN_Learn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RN_Learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RN_Learn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RN_Learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RN_Learn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="DemoIndex" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -337,6 +308,10 @@
       <workItem from="1541037929422" duration="1189000" />
       <workItem from="1541040697328" duration="2582000" />
       <workItem from="1541060410809" duration="2790000" />
+      <workItem from="1541123862463" duration="9657000" />
+      <workItem from="1541211996155" duration="2022000" />
+      <workItem from="1541576636232" duration="5185000" />
+      <workItem from="1541732940789" duration="5280000" />
     </task>
     <task id="LOCAL-00001" summary="完成webstorm的GIT的配置">
       <created>1539918854457</created>
@@ -380,11 +355,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540892120738</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="暂时结束less">
+      <created>1541123929981</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1541123929981</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29343000" />
+    <option name="totallyTimeSpent" value="51487000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="25" y="23" width="1400" height="796" extended-state="0" />
@@ -423,33 +405,10 @@
     <MESSAGE value="测试websotrm提交" />
     <MESSAGE value="增加部分封装模块的调用方法" />
     <MESSAGE value="安装了 less 还有less loader&#10;初始化了npm 但是都没有什么用" />
-    <option name="LAST_COMMIT_MESSAGE" value="安装了 less 还有less loader&#10;初始化了npm 但是都没有什么用" />
+    <MESSAGE value="暂时结束less" />
+    <option name="LAST_COMMIT_MESSAGE" value="暂时结束less" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DemoIndex/index002.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DemoIndex/index003.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="38" column="49" lean-forward="true" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DemoIndex/index005.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DemoIndex/index004url.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DemoIndex/script/tools01.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -464,30 +423,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DemoIndex/index006CssTest.css" />
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/testless.less" />
     <entry file="file://$PROJECT_DIR$/DemoIndex/index006CssTest.js" />
-    <entry file="file://$PROJECT_DIR$/DemoIndex/index001.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -495,10 +433,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/login.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        <state relative-caret-position="240">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -509,16 +447,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
-          <folding>
-            <element signature="e#102#141#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -526,10 +454,96 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DemoIndex/index002.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DemoIndex/index003.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="38" column="49" lean-forward="true" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DemoIndex/index005.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DemoIndex/index007modal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="e#43#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DemoIndex/index004url.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-155">
+          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+          <folding>
+            <element signature="e#102#141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DemoIndex/index001.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DemoIndex/index006update.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DemoIndex/storage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="40" column="7" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

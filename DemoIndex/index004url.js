@@ -8,7 +8,8 @@ export default class index004rul extends React.Component{
         return(
             <View>
                 <Text>网络请求</Text>
-                <Button title='点我进行求情' onPress={posturl}/>
+                <Button style={{flex: 1}} title='点我进行求情' onPress={posturl}/>
+                <Button style={{flex: 1}} title='点击下载' onPress={downapk}/>
             </View>
 
         );
@@ -34,6 +35,14 @@ const posturl = () =>{
         .done(chengong => console.log(JSON.stringify(chengong)));
 
 
+}
+
+
+const downapk = () =>{
+    let urldown = 'http://a083234163e6342316a3.qiniucdn.apicloud-system.com/apicloud/43f9c243e5d5f20f6d8d039e0799ad62.apk';
+    fetch(urldown).then(res => res.blob().then(blob => {
+
+    }));
 }
 
 
