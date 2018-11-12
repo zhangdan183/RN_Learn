@@ -2,6 +2,7 @@ import React from 'react';
 import {View, Text} from 'react-native';
 import appupdate from '../../DemoIndex/index006update'
 import Storage from '../../DemoIndex/storage'
+import AppState from '../../DemoIndex/AppState'
 
 export default class login extends React.Component{
 
@@ -13,6 +14,7 @@ export default class login extends React.Component{
         return(
             <View>
                 <Text style={{width: 100, height: 50}} onPress={huidoao}>新测试</Text>
+                <Text style={{width: 100, height: 50}} onPress={tishiupdate}>提示更新</Text>
                 <Text style={{width: 100, height: 50}} onPress={baocun}>保存</Text>
                 <Text style={{width: 100, height: 50}} onPress={baocun1}>保存1</Text>
                 <Text style={{width: 100, height: 50}} onPress={duqu}>读取</Text>
@@ -27,6 +29,10 @@ const huidoao=()=>{
     appupdate.GetVersion("1.1.1", callback = (version)=>{
         alert(version);
     });
+}
+
+const tishiupdate = () => {
+    appupdate.show_update('2', '马上就要更新了')
 }
 
 const baocun=()=>{
